@@ -88,7 +88,7 @@ Acesse as configurações dos seus aplicativos e habilite essa opção sempre qu
 <br />
 #### O que a mais posso fazer?
 
-A Samsung oferece algumas outras possíveis proteções adicionais de segurança que podem ser utilizadas para aumentar seu nível de proteção, dentre elas:
+Dentro do universo Samsung existem algumas outras possíveis soluções de segurança que podem ser utilizadas para aumentar seu nível de proteção, dentre elas:
 
 - SmartThings Find
 
